@@ -1,3 +1,5 @@
-I make stuff using C# and .NET. I package everything in installers. I try to make everything open-source, but don't be surprised if I forget to publish the open source part.
+Calebh101
+C# Beginning Software Developer
 
-I have more info on my Google Sites page.
+RECENT NEWS
+-Installers will come out soon. For now, portable versions and source code will be used.
