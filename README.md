@@ -6,7 +6,7 @@ ABOUT
 Calebh101
 C# Beginning Software Developer
 
--To clear things up, my version system is this:
+To clear things up, my version system is this:
 0.1.2A
 -First digit (0): If 0, is beta, if 1, is first primary release, if 2+ is major updates
 -Second digit (1): Regularly minor releases, but still feature releases
