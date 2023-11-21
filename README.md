@@ -9,7 +9,7 @@ C# Beginning Software Developer
 To clear things up, my version system is this:
 0.1.2A
 -First digit (0): If 0, is beta, if 1, is first primary release, if 2+ is major updates
--Second digit (1): Regularly minor releases, but still feature releases
+-Second digit (1): Regularly more minor releases, but still feature releases, or very large bug fixes
 -Third digit (2): Normally either very small feature releases or medium-sized bug fixes
 -Letter (A): Small bug fixes //Can be an extra digit instead for apps that don't support letters, if so it will look like 0.0.0.0
 //Think of it like iOS updates, like 17.1.1, with RCs being the letters
