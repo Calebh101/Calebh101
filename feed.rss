@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>My Cool Blog</title>
-<link>https://www.yourwebsite.com/</link>
-<description>My latest cool articles</description>
+<title>Calebh101</title>
+<link>https://calebh101.rf.gd</link>
+<image>
+    <url>https://calebh101.rf.gd/favicon.ico</url>
+    <title>feed icon</title>
+    <link>https://calebh101.rf.gd</link>
+</image>
+
 <item>
 <title>Article 3</title>
 <link>example.com/3</link>
@@ -25,5 +30,6 @@
 <pubDate>Mon, 25 Nov 2013 15:10:45 GMT</pubDate>
 <description>My first article.</description>
 </item>
+
 </channel>
 </rss>
