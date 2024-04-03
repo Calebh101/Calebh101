@@ -1,0 +1,23 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "My JSON Feed",
+  "home_page_url": "https://example.com",
+  "feed_url": "https://example.com/feed.json",
+  "description": "This is a JSON Feed example.",
+  "items": [
+    {
+      "id": "1",
+      "title": "First post",
+      "content_text": "This is the first post in the JSON Feed.",
+      "url": "https://example.com/first-post",
+      "date_published": "2024-04-03T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Second post",
+      "content_text": "This is the second post in the JSON Feed.",
+      "url": "https://example.com/second-post",
+      "date_published": "2024-04-02T12:00:00Z"
+    }
+  ]
+}
