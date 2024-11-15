@@ -1,23 +1,12 @@
-README
-Version: 1.0.0B
+# ABOUT
 
-ABOUT
+## Calebh101
 
-Calebh101
-C# Beginning Software Developer
+Self-teaching to be a software engineer, currently know enough to make decent websites and currently trying to learn Flutter.
 
-To clear things up, my version system is this:
-0.1.2A
--First digit (0): If 0, is beta, if 1, is first primary release, if 2+ is major updates
--Second digit (1): Regularly more minor releases, but still feature releases, or very large bug fixes
--Third digit (2): Normally either very small feature releases or medium-sized bug fixes
--Letter (A): Small bug fixes //Can be an extra digit instead for apps that don't support letters, if so it will look like 0.0.0.0
-//Think of it like iOS updates, like 17.1.1, with RCs being the letters
+## Accomplishments
 
-NOTES
--If you notice that, in a project, the source code and the release don't match, I probably forgot to update one of them. (Fun fact, the entire reason I put version numbers on the source code is for me to keep track)
+- Created the repository [dexcom](https://github.com/Calebh101/dexcom), an ongoing project to document and create packages for the Dexcom Share API. I have provided full documentation in that repository, including what it is, how it works, and other things. I have also published a package on [pub.dev](https://pub.dev) named dexcom that allows easy usage of the Dexcom Share API.
 
-RECENT NEWS
-
--(11/20/23) Hacker Simulator published!
--(11/##/23) Installers will come out soon. For now, portable versions and source code will be used.
+# NOTES
+- If you notice that, in a project, the source code and the release don't match, I probably forgot to update one of them. (Fun fact, the entire reason I put version numbers on the source code is for me to keep track)
