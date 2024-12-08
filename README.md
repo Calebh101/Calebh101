@@ -2,7 +2,7 @@
 
 ## Calebh101
 
-Self-teaching to be a software engineer, currently know enough to make decent websites and currently trying to learn Flutter.
+Self-teaching to be a software engineer, currently know enough to make ok websites and currently trying to learn Flutter.
 
 ## Accomplishments
 
