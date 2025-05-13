@@ -5,9 +5,9 @@
 Self-teaching to be a full-stack software engineer. My current experience:
 
 - Flutter: some experience
-- JavaScript: frontend and Node.js
+- JavaScript (and TypeScript): frontend and Node.js
 - Website: HTML and CSS
-- C#: a tiny bit of experience
+- A bit of Python knowledge
 
 ## Accomplishments
 
