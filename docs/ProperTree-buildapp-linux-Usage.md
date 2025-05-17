@@ -2,8 +2,9 @@
 
   `buildapp-linux.py` is a script to quickly build ProperTree as an app. It goes through each required ProperTree asset to bundle it all in one file that can be ran anywhere. There are also several arguments you can use to customize it, as shown below.
 
-    - `--verbose`: Run the script in verbose mode. This shows extra logs that may be helpful for debugging.
-    - `--python "*"`: Add this argument and replace `*` with a Python executable to use it for ProperTree. If this argument is not included, then the output is taken from `which python3`. (You will have to overwrite this if you wish to use Python 2 with ProperTree.)
+    - `--verbose` or `-v`: Run the script in verbose mode. This shows extra logs that may be helpful for debugging.
+    - `--python "*"` or `-p "*"`: Add this argument and replace `*` with a Python executable to use it for ProperTree. If this argument is not included, then the output is taken from `which python3`. (You will have to overwrite this if you wish to use Python 2 with ProperTree, as it defaults to the Python 3 executable. This is because `python` is sometimes not included with Python.)
+    - `--clear` or `-c`: Clear `dist/linux`. This does not respect `--use-existing-payload`.
     - `--always-overwrite`: Don't ask if you want to overwrite `settings.json` in `/home/user/.ProperTree` (if it exists). This argument will force the script to overwrite it no matter what.
     - `--use-existing-payload`: For debugging purposes only. This makes it so the script doesn't delete `dist/linux/payload` and instead uses it for the next run.
     - `--skip-compile`: Don't use `gcc` to compile into an executable, but instead skip that step.
