@@ -2,12 +2,13 @@
 
 ## Calebh101
 
-Self-teaching to be a full-stack software engineer. My current experience:
+What I currently know:
 
 - Flutter: some experience
-- JavaScript (and TypeScript): frontend and Node.js
+- JavaScript (and TypeScript): some frontend and Node.js
 - Website: HTML and CSS
-- A bit of Python knowledge
+- A bit of Python
+- A bit of Java
 
 ## Accomplishments
 
@@ -36,3 +37,10 @@ Example: 1.2.4B
 | Visible changes  | Yes | Yes | Maybe | Small to none |
 | Improvements     | Maybe | Maybe | Yes | Yes |
 | Bug fixes        | Maybe | Maybe | Yes | Yes |
+
+## Localpkg
+
+Localpkg is the name for a group of packages that I can use in several different applications. The current localpkg selection:
+
+- [Localpkg for Flutter](https://github.com/Calebh101/localpkg-flutter) - For my Flutter apps.
+- [Localpkg for Java](https://github.com/Calebh101/localpkg-java) - For my Java apps.
