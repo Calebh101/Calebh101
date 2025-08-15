@@ -4,11 +4,13 @@
 
 What I currently know:
 
-- Flutter: some experience
-- JavaScript (and TypeScript): some frontend and Node.js
-- Website: HTML and CSS
+- Flutter: some experience, learning
+- JavaScript (and TypeScript): a bit of frontend and Node.js
+- Website: Some HTML and CSS
 - A bit of Python
 - A bit of Java
+- A bit of C++
+- A bit of C#
 
 ## Accomplishments
 
