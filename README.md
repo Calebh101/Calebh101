@@ -2,9 +2,7 @@
 
 ## Calebh101
 
-## Accomplishments
-
-- Created the repository [dexcom](https://github.com/Calebh101/dexcom), an ongoing project to document and create packages for the Dexcom Share API. I have provided full documentation in that repository, including what it is, how it works, and other things. I have also published a package on [pub.dev](https://pub.dev) named [dexcom](https://pub.dev/packages/dexcom) that allows easy usage of the Dexcom Share API.
+I like to make whatever comes to my mind.
 
 ## Versioning
 
@@ -24,15 +22,15 @@ Example: 1.2.4B
 
 | Type | Major | Mediocre | Minor | Tiny |
 |------------------|-----------------------------------------------------|--------------|-----------------|------------|
-| Examples | 1 | 2 | 4 | B |
 | Features         | Yes | Some | Rarely | No  |
 | Visible changes  | Yes | Yes | Maybe | Small to none |
 | Improvements     | Maybe | Maybe | Yes | Yes |
 | Bug fixes        | Maybe | Maybe | Yes | Yes |
+| Example | 1 | 2 | 4 | B |
 
-## Localpkg
+## localpkg
 
-Localpkg is the name for a group of packages that I can use in several different applications. The current localpkg selection:
+localpkg is the name for a group of packages that I can use in several different applications. The current localpkg selection:
 
-- [Localpkg for Flutter](https://github.com/Calebh101/localpkg-flutter) - For my Flutter apps.
-- [Localpkg for Java](https://github.com/Calebh101/localpkg-java) - For my Java apps.
+- [localpkg for Dart](https://github.com/Calebh101/localpkg-dart): For my Dart apps/projects.
+- [localpkg for Flutter](https://github.com/Calebh101/localpkg-flutter-2): For my Flutter apps, built upon `localpkg-dart`.
