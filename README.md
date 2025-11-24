@@ -8,7 +8,7 @@ I like to make whatever comes to my mind.
 
 Here is my versioning standard:
 
-Layout: major.minor.bug (major.minor.bug.specific)
+Layout: major.minor.bug specific(R-rerelease)
 
 Example: 1.2.4B-R2
 
