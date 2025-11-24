@@ -23,12 +23,12 @@ Example: 1.2.4B-R2
 - beta re-release (R2): The number after the R signifies a beta re-release, like when iterating over the same release for a bit. This is normally not present and is used very little.
 
 | Type | Major | Mediocre | Minor | Tiny | Beta re-release
-|------------------|-----------------------------------------------------|--------------|-----------------|------------|
+|------------------|-----------------------------------------------------|--------------|-----------------|------------|----------|
 | Features         | Yes | Some | Rarely | No  | Maybe
 | Visible changes  | Yes | Yes | Maybe | Small to none | Maybe
 | Improvements     | Maybe | Maybe | Yes | Yes | Maybe
 | Bug fixes        | Maybe | Maybe | Yes | Yes | Maybe
-| Example | 1 | 2 | 4 | B | | R1
+| Example | 1 | 2 | 4 | B | R1
 
 ## localpkg
 
