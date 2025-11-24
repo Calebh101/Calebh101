@@ -10,23 +10,25 @@ Here is my versioning standard:
 
 Layout: major.minor.bug (major.minor.bug.specific)
 
-Example: 1.2.4B
+Example: 1.2.4B-R2
 
 - major (1): Signifies big new release (0 means beta, 1 means release, 2+ means other big releases)
 
-- minor (2): Signifies 
+- minor (2): Signifies a medium-ish release?
 
 - bug (4): Signifies large bug fixes or small improvements.
 
 - specific (B): Signifies small bug fixes or small improvements.
 
-| Type | Major | Mediocre | Minor | Tiny |
+- beta re-release (R2): The number after the R signifies a beta re-release, like when iterating over the same release for a bit. This is normally not present and is used very little.
+
+| Type | Major | Mediocre | Minor | Tiny | Beta re-release
 |------------------|-----------------------------------------------------|--------------|-----------------|------------|
-| Features         | Yes | Some | Rarely | No  |
-| Visible changes  | Yes | Yes | Maybe | Small to none |
-| Improvements     | Maybe | Maybe | Yes | Yes |
-| Bug fixes        | Maybe | Maybe | Yes | Yes |
-| Example | 1 | 2 | 4 | B |
+| Features         | Yes | Some | Rarely | No  | Maybe
+| Visible changes  | Yes | Yes | Maybe | Small to none | Maybe
+| Improvements     | Maybe | Maybe | Yes | Yes | Maybe
+| Bug fixes        | Maybe | Maybe | Yes | Yes | Maybe
+| Example | 1 | 2 | 4 | B | | R1
 
 ## localpkg
 
