@@ -1,3 +1,6 @@
+Hello :wave: I'm caleb.
+My favorite language is Dart, and you'll see me yap about it a lot.
+
 ## Projects
 
 - Dexcom @ [Calebh101/dexcom](https://github.com/Calebh101/dexcom) & [pub.dev/packages/dexcom](https://pub.dev/packages/dexcom): Documentation about the Dexcom Share API, with a Dart package for it.
