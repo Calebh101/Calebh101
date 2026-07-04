@@ -1,10 +1,11 @@
-Hello :wave: I'm caleb.
+Hello :wave: I'm Caleb.
 My favorite language is Dart, and you'll see me yap about it a lot.
 
-## Projects
+## Featured Projects
 
 - Dexcom @ [Calebh101/dexcom](https://github.com/Calebh101/dexcom) & [pub.dev/packages/dexcom](https://pub.dev/packages/dexcom): Documentation about the Dexcom Share API, with a Dart package for it.
-- ItlwmCLI @ [Calebh101/ItlwmCLI](https://github.com/Calebh101/ItlwmCLI) (in beta): An [itlwm](https://github.com/OpenIntelWireless/itlwm) client for the terminal.
+- MagnificationScaler @ [Calebh101/MagnificationScaler](https://github.com/Calebh101/MagnificationScaler): Makes the macOS dock magnification scale with its size.
+- ItlwmCLI @ [Calebh101/ItlwmCLI](https://github.com/Calebh101/ItlwmCLI): An [itlwm](https://github.com/OpenIntelWireless/itlwm) client for the terminal.
 - About This PC @ [Calebh101/About-This-PC](https://github.com/Calebh101/About-This-PC) (in beta): Like About This Mac, but for PCs.
 
 ## Versioning
